@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+        body {
+            background-color:blueviolet;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;      
+        }
+        h1 {
+            color: seashell;
+            background-color:salmon;
+        }
+        h2 {
+            color:darkseagreen;
+        }
+        p {
+            text-align: justify;
+        }
+    
